@@ -24,17 +24,5 @@ System.out.println("double dbl is " + dbl);
 System.out.println("hexa-decimal float hex_dbl is " + hex_dbl);
 System.out.println("char ch is " + ch);
 System.out.println("String str is " + str);
-
-
-
-
-
 }
-
-
-
-
-
-
-
-} 
+}
